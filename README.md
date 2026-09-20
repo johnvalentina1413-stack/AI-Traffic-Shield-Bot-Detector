@@ -296,3 +296,35 @@ Possible future improvements include:
 This project is developed for **educational, cybersecurity learning, and research purposes**.
 
 The system demonstrates machine learning-based behavioural analysis and should not be considered a complete production-grade bot detection or security solution.
+
+
+## 👩‍💻 Author
+
+**Valentina**
+BSc Information Technology Student | Cybersecurity & Machine Learning Enthusiast
+
+### 🔐 Areas of Interest
+
+* Cybersecurity
+* Security Operations & Threat Detection
+* Machine Learning
+* Network Security
+* AI & Security
+* Data Analysis
+
+### 🛠️ Technical Skills
+
+* **Languages:** Python, Java, C, JavaScript, PHP, SQL
+* **Database:** PostgreSQL, SQL
+* **Cybersecurity:** Networking, Linux, Security Fundamentals
+* **Machine Learning:** Pandas, NumPy, Scikit-learn, Matplotlib
+* **Tools:** Jupyter Notebook, Git & GitHub, Canva,VScode
+
+### 📌 Current Focus
+
+Building practical projects that combine **Cybersecurity, Machine Learning, and AI**, while developing industry-ready technical skills through hands-on projects and internships.
+
+### 🌐 Connect
+
+🔗 LinkedIn:www.linkedin.com/in/valentina-john-66913b42b
+💻 GitHub: https://github.com/johnvalentina1413-stack
